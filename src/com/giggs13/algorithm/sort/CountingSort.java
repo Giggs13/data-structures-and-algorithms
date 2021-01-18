@@ -1,4 +1,4 @@
-package com.giggs13.algorithms.sort;
+package com.giggs13.algorithm.sort;
 
 import java.util.Arrays;
 
